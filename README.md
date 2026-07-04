@@ -1,8 +1,8 @@
 <p align="center">
-  <br>
-  <img width="200" src="./awesome-svelte.svg" alt="awesome-svelte logo">
-  <br>
-  <br>
+ <br>
+ <img width="200" src="./awesome-svelte.svg" alt="awesome-svelte logo">
+ <br>
+ <br>
 </p>
 
 # Awesome Svelte [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -16,54 +16,54 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Contents
 
 - [Awesome Svelte](#awesome-svelte-)
-  - [Contents](#contents)
-  - [Resources](#resources)
-    - [Official Resources](#official-resources)
-    - [Community](#community)
-    - [Conferences](#conferences)
-    - [Podcasts](#podcasts)
-    - [YouTube Channels](#youtube-channels)
-    - [Tutorials](#tutorials)
-    - [Studies](#studies)
-  - [Integrations](#integrations)
-    - [Preprocessing](#preprocessing)
-    - [Mobile](#mobile)
-  - [State Libraries](#state-libraries)
-  - [UI Libraries](#ui-libraries)
-  - [UI Components](#ui-components)
-    - [Table](#table)
-    - [Notification](#notification)
-    - [Grid](#grid)
-    - [Icons](#icons)
-    - [Calendar](#calendar)
-    - [Maps](#maps)
-    - [Charts](#charts)
-    - [Miscellaneous](#miscellaneous)
-  - [Scaffold](#scaffold)
-  - [Utilities](#utilities)
-    - [Animations](#animations)
-    - [Drag \& Drop](#drag--drop)
-    - [Forms](#forms)
-      - [Form Components](#form-components)
-    - [HTTP Requests](#http-requests)
-    - [Sound \& Video](#sound--video)
-    - [WebGL](#webgl)
-    - [PWA](#pwa)
-    - [Portal](#portal)
-    - [Fonts](#fonts)
-    - [Internationalization](#internationalization)
-  - [Routers](#routers)
-  - [Frameworks](#frameworks)
-  - [Dev Tools](#dev-tools)
-    - [Lint](#lint)
-    - [Test](#test)
-    - [Editors](#editors)
-      - [Visual Studio Code](#visual-studio-code)
-      - [Sublime Text](#sublime-text)
-      - [Vim](#vim)
-      - [JetBrains](#jetbrains)
-  - [Application Examples](#application-examples)
-    - [Desktop](#desktop)
+ - [Contents](#contents)
+ - [Resources](#resources)
+ - [Official Resources](#official-resources)
+ - [Community](#community)
+ - [Conferences](#conferences)
+ - [Podcasts](#podcasts)
+ - [YouTube Channels](#youtube-channels)
+ - [Tutorials](#tutorials)
+ - [Studies](#studies)
+ - [Integrations](#integrations)
+ - [Preprocessing](#preprocessing)
+ - [Mobile](#mobile)
+ - [State Libraries](#state-libraries)
+ - [UI Libraries](#ui-libraries)
+ - [UI Components](#ui-components)
+ - [Table](#table)
+ - [Notification](#notification)
+ - [Grid](#grid)
+ - [Icons](#icons)
+ - [Calendar](#calendar)
+ - [Maps](#maps)
+ - [Charts](#charts)
+ - [Miscellaneous](#miscellaneous)
+ - [Scaffold](#scaffold)
+ - [Utilities](#utilities)
+ - [Animations](#animations)
+ - [Drag \& Drop](#drag, drop)
+ - [Forms](#forms)
+ - [Form Components](#form-components)
+ - [HTTP Requests](#http-requests)
+ - [Sound \& Video](#sound, video)
+ - [WebGL](#webgl)
+ - [PWA](#pwa)
+ - [Portal](#portal)
+ - [Fonts](#fonts)
+ - [Internationalization](#internationalization)
+ - [Routers](#routers)
+ - [Frameworks](#frameworks)
+ - [Dev Tools](#dev-tools)
+ - [Lint](#lint)
+ - [Test](#test)
+ - [Editors](#editors)
+ - [Visual Studio Code](#visual-studio-code)
+ - [Sublime Text](#sublime-text)
+ - [Vim](#vim)
+ - [JetBrains](#jetbrains)
+ - [Application Examples](#application-examples)
+ - [Desktop](#desktop)
 
 ## Resources
 
@@ -153,7 +153,7 @@ _UI frameworks for mobile._
 - [YeSvelte](https://www.yesvelte.com/) - YeSvelte is flexible Svelte UI component library built on top of Bootstrap css.
 - [Svelte UX](https://github.com/techniq/svelte-ux) - Large collection of components, actions, stores, and utilities to build highly interactive applications
 - [STDF](https://stdf.design) - Mobile web component library based on Svelte and Tailwind.
-- [M3 Svelte](https://github.com/KTibow/m3-svelte) - Robust component library implementing Material Design 3
+- [M3 Svelte](https://github.com/KTibow/m3-svelte) - stable component library implementing Material Design 3
 - [AgnosUI](https://amadeusitgroup.github.io/AgnosUI/latest/) - Highly configurable headless framework agnostic component library
 - [daisyUI](https://daisyui.com/) - The most popular component library for Tailwind CSS - `daisyUI` adds component class names to Tailwind CSS so you can make beautiful websites faster than ever.
 - [Smelte](https://github.com/matyunya/smelte) - UI framework with material components built with Tailwind CSS. _(pre-v5)_
